@@ -1,0 +1,6 @@
+deps/deps.jl
+docs/build/
+docs/site/
+*.cov
+*.swp
+*.mem
